@@ -1,7 +1,7 @@
 這裡是 "Beyond Transparency" 一書的翻譯計畫。
 ==================
 
-Code for America's new :closed_book: - Beyond Transparency 
+Code for America's new Beyond Transparency 
 
 
 ## About this Book
